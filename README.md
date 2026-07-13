@@ -1,18 +1,154 @@
-# 💫 About Me:
-👋 About Me<br><br>Hi, I'm Manish, a final-year B.Tech Computer Science student with a specialization in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), and an aspiring Data Analyst.<br><br>I'm passionate about transforming raw data into meaningful insights using Python, SQL, Excel, Power BI, Pandas, NumPy, and Matplotlib. I enjoy building data-driven solutions, creating interactive dashboards, and solving real-world business problems through analytics.<br><br>Currently, I'm expanding my knowledge in Data Analytics, Statistics, Data Visualization, Machine Learning, and Cloud Technologies while working on practical projects to strengthen my skills.<br><br>🚀 Tech Stack: Python • SQL • Excel • Power BI • Pandas • NumPy • Matplotlib • Git & GitHub<br><br>"Turning data into insights and insights into impact."
+<!-- Dynamic Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=58A6FF,00599C,336791&height=250&section=header&text=Hi,%20I'm%20Manish%20Kashyap%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</div>
 
+<h3 align="center">📊 Aspiring Data Analyst | Transforming Raw Data into Business Intelligence</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Manish Kashyap) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ilikemanish_?igsh=cWEzenZ3bDgzaGZ3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@ilikemanish?si=QBuKFjAxyClWRo_G) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishkshyp0123@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+CSE+Student;SQL+%7C+Excel+%7C+Python+%7C+Power+BI;Building+Data-Driven+Dashboards;Open+to+Data+Analytics+%26+BI+Internships" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Manish-kashyap&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Manish-kashyap&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manish-kashyap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:manishkshyp0123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Analytics GIF" />
+
+- 🎓 **Education:** Final Year B.Tech in Computer Science & Engineering at **Teerthanker Mahaveer University**
+- 🔭 **Mission:** Passionate about solving complex business problems through **Data Exploration, Statistical Analysis & Visualization**
+- 🛠️ **Current Focus:** Deepening expertise in complex **SQL queries, Advanced Excel forecasting, Python scripting (Pandas/NumPy), and Power BI Dashboards**
+- 🌱 **What I'm doing:** Actively building end-to-end analytics pipelines and storytelling dashboards from raw, messy datasets
+- 🎯 **Goals:** Seeking **Data Analyst & Business Intelligence Internship roles** to drive data-informed decision making
+- 📫 **Reach me at:** **manishkshyp0123@gmail.com**
+
+<br/><br/>
+
+## 🛠️ My Data Arsenal
+
+> *Tools and technologies I use to extract insights from data.*
+
+**Databases & Languages**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Data Visualization & Business Intelligence**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Data Wrangling & Analysis**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br/>
+
+## 🚀 Featured Data Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>💼 <a href="#">Indian Job Market Skill Analyzer</a></h3>
+      <p>Extracted and analyzed job postings to identify top-demanded skills, salary distributions, and hiring trends across tech roles.</p>
+      <p><i>Tech: Python, Pandas, Seaborn</i></p>
+    </td>
+    <td width="50%">
+      <h3>💰 <a href="#">Personal Finance Intelligence Dashboard</a></h3>
+      <p>End-to-end data cleaning and visualization pipeline tracking income, expense categories, and budgeting forecasts.</p>
+      <p><i>Tech: Advanced Excel, SQL, Power BI</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 <a href="#">Business Performance Analyzer</a></h3>
+      <p>Built interactive dashboards to identify regional sales bottlenecks, customer churn drivers, and seasonal revenue patterns.</p>
+      <p><i>Tech: MySQL, Tableau, EDA</i></p>
+    </td>
+    <td width="50%">
+      <h3>🛒 <a href="#">E-Commerce Customer Behavior</a></h3>
+      <p>In-depth exploratory data analysis uncovering customer segmentation, purchasing funnels, and retention metrics.</p>
+      <p><i>Tech: Python, Matplotlib, Scikit-learn</i></p>
+    </td>
+  </tr>
+</table>
+
+> 📌 *Click the project titles to view the respective GitHub repositories!*
+
+<br/>
+
+## 🏆 Certifications & Achievements
+
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star" width="25" height="25" /> **Machine Learning (NPTEL):** Successfully completed certification covering core machine learning algorithms, data modeling, predictive analytics, and model evaluation techniques.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> **Advanced Excel (Skilllearn):** Certified in advanced data analysis, complex formulas, data manipulation, and building dynamic spreadsheets for business reporting.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying" width="25" height="25" /> **Power BI Certification:** Demonstrated proficiency in data visualization, data modeling, DAX queries, and creating interactive, data-driven storytelling dashboards.
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- Stats Cards with Tokyonight Theme -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</p>
+
+<!-- Streak Counter -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+## 📈 Contribution Activity & Snake Animation
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- Note: To make the snake animation work, you will need to set up the GitHub Action in your repository -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br/>
+
+## 💡 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Manish-kashyap&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3>Connect with me to talk about Data, Dashboards, and Analytics! 🤝</h3>
+  <p><i>⭐ Star my repos if you find them helpful — always open to collaborations!</i></p>
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00599C" alt="Profile Views" />
+</div>
