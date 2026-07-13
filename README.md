@@ -25,42 +25,28 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Monster" width="30" /> About My Journey
+## 👾 About My Journey
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <br>
-      <ul>
-        <li>🎓 <b>Education:</b> Final Year B.Tech CSE @ <b>Teerthanker Mahaveer University</b></li>
-        <li>💡 <b>Mission:</b> Solving complex business problems through <i>Data Exploration & Storytelling</i></li>
-        <li>🛠️ <b>Current Focus:</b> Deepening expertise in complex <b>SQL, Advanced Excel, Python & Power BI</b></li>
-        <li>🌱 <b>Currently Building:</b> End-to-end analytics pipelines from raw, messy datasets</li>
-        <li>🎯 <b>Status:</b> Seeking <b>Data Analyst & BI Internship roles</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Upgraded to a highly reliable, cool data/coding GIF -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Analytics GIF" width="90%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Analytics GIF" style="border-radius: 10px; margin-left: 15px;" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> The Analytics Workflow
+- 🎓 **Education:** Final Year B.Tech CSE @ **Teerthanker Mahaveer University**
+- 💡 **Mission:** Solving complex business problems through *Data Exploration & Storytelling*
+- 🛠️ **Current Focus:** Deepening expertise in complex **SQL, Advanced Excel, Python & Power BI**
+- 🌱 **Currently Building:** End-to-end analytics pipelines from raw, messy datasets
+- 🎯 **Status:** Seeking **Data Analyst & BI Internship roles**
 
-<div align="center">
-  <br/>
-  <kbd>🔍 1. Data Extraction (SQL)</kbd> ➔ 
-  <kbd>🧹 2. Cleaning (Pandas)</kbd> ➔ 
-  <kbd>📊 3. EDA (Matplotlib)</kbd> ➔ 
-  <kbd>📈 4. Dashboards (Power BI)</kbd> ➔ 
-  <kbd>💡 5. Business Impact</kbd>
-  <br/><br/>
-</div>
+<br/>
+<br/>
+
+## 🚀 The Analytics Workflow
+
+<p align="center">
+  <code>🔍 1. Data Extraction (SQL)</code> ➔ <code>🧹 2. Cleaning (Pandas)</code> ➔ <code>📊 3. EDA (Matplotlib)</code> ➔ <code>📈 4. Dashboards (Power BI)</code> ➔ <code>💡 5. Business Impact</code>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Personal%20Computer.png" alt="Computer" width="30" /> Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
   <table>
@@ -91,7 +77,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Disk" width="30" /> Featured Projects
+## 💾 Featured Projects
 
 <table align="center">
   <tr>
@@ -100,7 +86,7 @@
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=500&auto=format&fit=crop" alt="Customer Churn" style="border-radius: 8px; margin-bottom: 10px;" />
       </a>
       <br>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25"/> <a href="https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-">Customer Churn Analysis</a></h3>
+      <h3>📈 <a href="https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-">Customer Churn Analysis</a></h3>
       <blockquote>In-depth exploratory data analysis to identify customer drop-off points, retention metrics, and behavioral patterns.</blockquote>
       <p><i><b>Stack:</b> Python, Matplotlib, EDA</i></p>
     </td>
@@ -109,7 +95,7 @@
         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=500&auto=format&fit=crop" alt="Diwali Sales" style="border-radius: 8px; margin-bottom: 10px;" />
       </a>
       <br>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png" width="25"/> <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">Diwali Sales Analysis</a></h3>
+      <h3>✨ <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">Diwali Sales Analysis</a></h3>
       <blockquote>Comprehensive breakdown of festive sales data uncovering regional sales bottlenecks and demographic purchasing funnels.</blockquote>
       <p><i><b>Stack:</b> Python, Pandas, Data Storytelling</i></p>
     </td>
@@ -120,7 +106,7 @@
         <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=500&auto=format&fit=crop" alt="Job Market" style="border-radius: 8px; margin-bottom: 10px;" />
       </a>
       <br>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25"/> <a href="https://github.com/Manish-kashyap">Indian Job Market Analyzer</a></h3>
+      <h3>💼 <a href="https://github.com/Manish-kashyap">Indian Job Market Analyzer</a></h3>
       <blockquote>Extracted and analyzed job postings to identify top-demanded skills, salary distributions, and hiring trends across tech roles.</blockquote>
       <p><i><b>Stack:</b> Python, Pandas, Seaborn</i></p>
     </td>
@@ -129,7 +115,7 @@
         <img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=500&auto=format&fit=crop" alt="Finance Dashboard" style="border-radius: 8px; margin-bottom: 10px;" />
       </a>
       <br>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="25"/> <a href="https://github.com/Manish-kashyap">Personal Finance Dashboard</a></h3>
+      <h3>💰 <a href="https://github.com/Manish-kashyap">Personal Finance Dashboard</a></h3>
       <blockquote>End-to-end data cleaning and visualization pipeline tracking income, expense categories, and budgeting forecasts.</blockquote>
       <p><i><b>Stack:</b> Advanced Excel, SQL, Power BI</i></p>
     </td>
@@ -138,7 +124,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> Milestones & Certifications
+## 🌟 Milestones & Certifications
 *Click the dropdowns to expand!*
 
 <details>
