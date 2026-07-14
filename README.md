@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=200&section=header&text=Manish%20Kashyap&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=00FF9D&desc=Aspiring%20Data%20Analyst&descAlignY=60&descSize=20" width="100%" alt="Header" />
+
+<br/>
 
 <a href="https://github.com/Manish-kashyap">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3E%3E+Aspiring+Data+Analyst_;%3E%3E+Transforming+Raw+Data+into+Business+Intel_;%3E%3E+SQL+%7C+Excel+%7C+Python+%7C+Power+BI_;%3E%3E+Open+to+Data+Analytics+Internships_" alt="Typing SVG" />
@@ -294,6 +296,14 @@
 
 ### ⚡ Turning Data Into Decisions, One Dataset at a Time ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3&height=120&section=footer" width="100%" />
+<a href="https://github.com/Manish-kashyap">
+  <img src="https://img.shields.io/badge/Visit_My_GitHub_Profile-Manish--kashyap-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="GitHub Profile" />
+</a>
+
+<br><br>
+
+<sub>© 2026 Manish Kashyap · Data Analyst</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
