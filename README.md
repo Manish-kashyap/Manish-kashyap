@@ -17,8 +17,9 @@
   <a href="https://github.com/Manish-kashyap"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="GitHub" /></a>
   <a href="mailto:manishkshyp0123@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="Email" /></a>
   <a href="https://youtube.com/@Ai_baba_ki_comedy"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="YouTube" /></a>
+  <a href="https://instagram.com/ilikemanish"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="Instagram" /></a>
   <br><br>
-  <!-- Exact Profile Views (Base artificial counter removed) -->
+  <!-- Exact Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Manish-kashyap&label=EXACT+PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views" />
 </div>
 
@@ -30,7 +31,7 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="60%" style="border: none;">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" /> About My Journey</h2>
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" /> About My Journey</h2>
       <ul>
         <li>🎓 <b>Education:</b> Final Year B.Tech CSE (AI/ML & Deep Learning) @ <b>TMU</b></li>
         <li>💡 <b>Mission:</b> Solving complex business problems through <i>Data Exploration & Storytelling</i></li>
@@ -50,26 +51,71 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
-<!-- ===================== WORKFLOW & TECH STACK ===================== -->
+<!-- ===================== SKILLS & TOOLS ARSENAL ===================== -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> Skills & Tools Arsenal</h2>
+  <p><i>Organized for efficiency and precision</i></p>
+</div>
+
 <table align="center" width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none;">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> The Analytics Workflow</h2>
-      <img src="https://img.shields.io/badge/1._Data_Extraction-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF9D" /><br><br>
-      <img src="https://img.shields.io/badge/2._Data_Cleaning-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9D" /><br><br>
-      <img src="https://img.shields.io/badge/3._Exploratory_Data_Analysis-0D1117?style=for-the-badge&logo=python&logoColor=00FF9D" /><br><br>
-      <img src="https://img.shields.io/badge/4._Data_Visualization-0D1117?style=for-the-badge&logo=powerbi&logoColor=00FF9D" /><br><br>
-      <img src="https://img.shields.io/badge/5._Business_Insights-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF9D" />
+      <h3>💻 Languages & Databases</h3>
+      <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,js&perline=4&theme=dark" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Tech Arsenal</h2>
-      <a href="https://skillicons.dev">
-        <!-- Expanded skills grid -->
-        <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,excel,powerbi,tableau,pycharm,jupyter,vscode,github,git,html,css,js,figma&perline=4&theme=dark" alt="Skills Grid" />
-      </a>
+      <h3>📊 Data Analytics & BI</h3>
+      <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau&perline=3&theme=dark" /><br>
+      <img src="https://img.shields.io/badge/Data_Storytelling-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF9D&border=00FF9D" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <br>
+      <h3>🧠 AI, ML & Data Libraries</h3>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/OCR_Tech-00FF9D?style=for-the-badge&logoColor=black" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <br>
+      <h3>🛠️ Dev Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,pycharm,figma&perline=3&theme=dark" />
     </td>
   </tr>
 </table>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br>
+
+<!-- ===================== THE ANALYTICS WORKFLOW (INTERACTIVE) ===================== -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> The Analytics Workflow</h2>
+</div>
+
+<details>
+  <summary><b>🔍 1. Data Extraction & Collection</b></summary>
+  <blockquote>Writing complex SQL queries, utilizing APIs, and web scraping to gather raw, unstructured data from multiple database servers.</blockquote>
+</details>
+<details>
+  <summary><b>🧹 2. Data Cleaning & Preprocessing</b></summary>
+  <blockquote>Handling null values, standardizing formats, and transforming messy datasets into structured tables using Python (Pandas) and Advanced Excel.</blockquote>
+</details>
+<details>
+  <summary><b>📊 3. Exploratory Data Analysis (EDA)</b></summary>
+  <blockquote>Finding hidden patterns, correlations, and anomalies using statistical techniques, Matplotlib, and Seaborn.</blockquote>
+</details>
+<details>
+  <summary><b>📈 4. Data Visualization & Dashboarding</b></summary>
+  <blockquote>Designing interactive, automated, and dynamic dashboards in Power BI and Tableau for stakeholder reporting.</blockquote>
+</details>
+<details>
+  <summary><b>💡 5. Business Impact & Strategy</b></summary>
+  <blockquote>Translating charts into actionable business strategies, identifying KPIs, and presenting insights to drive growth and reduce churn.</blockquote>
+</details>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -152,7 +198,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
-<!-- ===================== NEW FEATURE: CONTENT CREATION ===================== -->
+<!-- ===================== CONTENT CREATION & AI ART ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="35" /> Beyond Data: Content Creation & AI Art</h2>
 </div>
@@ -202,7 +248,6 @@
 <!-- Dynamic GitHub Snake Animation -->
 <div align="center">
   <picture>
-    <!-- Note: If the snake animation doesn't load, ensure the GitHub Action for it is active in your repository! -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'">
@@ -226,10 +271,7 @@
     </td>
     <td width="50%" style="border: none;" align="center">
       <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Glowing%20Star.png" alt="Star" width="35" /> Certifications</h2>
-      
-      <!-- Added Graphic to fill vacant space in Certifications -->
       <img src="https://media.giphy.com/media/26tn33aiTi1jVDzO0/giphy.gif" width="40%" style="border-radius:10px; margin-bottom: 15px;" />
-      
       <div align="left">
         <details>
           <summary><b>🤖 Machine Learning (NPTEL)</b></summary>
@@ -269,10 +311,6 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa">
     <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D&border=00FF9D" />
-  </a>
-   &nbsp;&nbsp;
-  <a href="https://instagram.com/ilikemanish">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D&border=00FF9D" />
   </a>
 </div>
 
