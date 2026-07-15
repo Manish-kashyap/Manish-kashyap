@@ -1,6 +1,6 @@
-<!-- ===================== DYNAMIC HEADER ===================== -->
+<!-- ===================== STATIC HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Developer%20%7C%20Educator&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Developer%20%7C%20Educator&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </div>
 
 <!-- ===================== DYNAMIC QUOTE & TYPING ===================== -->
@@ -22,9 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=Manish-kashyap&label=EXACT+PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== ABOUT ME ===================== -->
 <div align="center">
@@ -38,9 +36,7 @@
 * 📖 **Mentorship:** Passionate about educational instruction, structuring complex topics into digestible lesson plans.
 * 🎯 **Status:** Actively seeking **Data Analyst & BI Internship roles**
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== SKILLS ARSENAL ===================== -->
 <div align="center">
@@ -69,9 +65,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== THE ANALYTICS WORKFLOW ===================== -->
 <div align="center">
@@ -95,9 +89,7 @@
   <blockquote>Designing interactive, automated, and dynamic dashboards in Power BI and Tableau for stakeholder reporting.</blockquote>
 </details>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <div align="center">
@@ -119,9 +111,7 @@
 * **Stack:** `Python`, `Pandas`, `Stats`, `Data Storytelling`
 * [View Repository ➜](https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-)
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== CONTENT CREATION ===================== -->
 <div align="center">
@@ -132,9 +122,7 @@
 * 🤖 **Prompt Engineering:** Expert in crafting complex prompts to design hyper-realistic portraits, 3D figurines, and restore vintage photographs.
 * 🎨 **Digital Design:** Creating compelling channel banners, logos, and digital branding assets.
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== GITHUB STATS & ACTIVITY ===================== -->
 <div align="center">
@@ -149,9 +137,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-kashyap&theme=tokyo-night&hide_border=true&area=true&color=00FF9D&line=00FF9D&point=ffffff" width="100%" alt="Activity Graph" />
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== TROPHIES & CERTIFICATIONS ===================== -->
 <div align="center">
@@ -174,9 +160,7 @@
   <blockquote>Demonstrated proficiency in data visualization, data modeling, DAX queries, and data-driven storytelling.</blockquote>
 </details>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-<br>
+<br><br>
 
 <!-- ===================== CONNECT ===================== -->
 <div align="center">
