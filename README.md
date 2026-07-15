@@ -30,7 +30,9 @@
 <!-- ===================== ABOUT ME (MOBILE OPTIMIZED) ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" /> About My Journey</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-56115e2f-e016-436e-9fd3-4cb50f581fec.gif" width="300" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 255, 157, 0.3);" alt="Coding Animation" />
+  
+  <!-- Fixed working animation link below -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 255, 157, 0.3);" alt="Working Coding Animation" />
   <br><br>
 </div>
 
@@ -38,7 +40,7 @@
 * 💡 **Mission:** Solving complex business problems through *Data Exploration & Storytelling*
 * 🛠️ **Current Focus:** Deepening expertise in **Python, SQL, and Dashboarding**
 * 🧠 **Tech Interests:** Building smart applications using OCR, AI, and Machine Learning
-* 📖 **Mentorship:** Passionate about educational instruction, structuring complex topics into digestible lesson plans, and guiding others in tech.
+* 📖 **Mentorship:** Passionate about educational instruction, structuring complex topics into digestible lesson plans.
 * 🎯 **Status:** Actively seeking **Data Analyst & BI Internship roles**
 
 <br>
@@ -55,7 +57,7 @@
   <h3>🧠 Core Analytics & Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Statistics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF9D&border=00FF9D" alt="Stats" />
+  <img src="https://img.shields.io/badge/Stats-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF9D&border=00FF9D" alt="Stats" />
   
   <br><br>
 
@@ -119,7 +121,7 @@
 
 ### ✨ Diwali Sales Analysis
 > Comprehensive breakdown of festive sales data uncovering regional sales bottlenecks and demographic purchasing funnels.
-* **Stack:** `Python`, `Pandas`, `Statistics`, `Data Storytelling`
+* **Stack:** `Python`, `Pandas`, `Stats`, `Data Storytelling`
 * [View Repository ➜](https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-)
 
 <br>
@@ -152,13 +154,8 @@
   <img src="https://streak-stats.demolab.com?user=Manish-kashyap&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakNum=00FF9D" alt="GitHub Streak" />
   <br><br>
   
-  <!-- Fallback text added for the snake if action is not running -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation (Requires GitHub Action)" src="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'">
-  </picture>
-  <br><br>
+  <!-- Removed broken Snake Graph. Using only the working Activity Graph below! -->
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-kashyap&theme=tokyo-night&hide_border=true&area=true&color=00FF9D&line=00FF9D&point=ffffff" width="100%" alt="Activity Graph" />
 </div>
 
