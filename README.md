@@ -1,6 +1,6 @@
-<!-- ===================== STATIC HEADER ===================== -->
+<!-- ===================== STATIC HEADER (PREMIUM WAVING THEME) ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=2,3&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Storyteller&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,013220,00FF9D&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Storyteller&descAlignY=55&descAlign=50&descSize=22" width="100%" alt="Header" />
 </div>
 
 <!-- ===================== DYNAMIC SUB-HEADER ===================== -->
@@ -149,10 +149,9 @@
 
 <br><br>
 
-<!-- ===================== TROPHIES & CERTIFICATIONS ===================== -->
+<!-- ===================== CERTIFICATIONS ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /> Achievements & Certifications</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Manish-kashyap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" alt="Trophies" />
 </div>
 
 <br>
@@ -191,5 +190,5 @@
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
   <h3>⚡ Transforming Data Into Decisions ⚡</h3>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=2,3&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF9D,013220,0D1117&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
