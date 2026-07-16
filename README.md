@@ -44,7 +44,7 @@
         <li>🛠️ <b>Current Focus:</b> Deepening expertise in <b>Python, SQL, ETL pipelines, and Dashboarding</b>.</li>
         <li>🧠 <b>Tech Interests:</b> Business Intelligence, Applied Statistics, OCR, and Machine Learning.</li>
         <li>🌱 <b>Currently Learning:</b> Advanced DAX for Power BI & Predictive Modeling.</li>
-        <li>🎯 <b>Status:</b> Actively seeking <b>Data Analytics & BI Internship roles</b>.</li>
+        <li>🎯 <b>Status:</b> Actively seeking <b>Data Analyst & BI Internship roles</b>.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -55,14 +55,13 @@
 
 <br>
 
-<!-- ===================== PREMIUM TECH STACK & PROGRESS BARS ===================== -->
+<!-- ===================== PREMIUM TECH STACK ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> Core Technology Arsenal</h2>
-  
-  <!-- Terminal Progress Bars -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=3000&color=00FF9D&vCenter=true&width=450&height=100&lines=Python++++++++++[██████████████████░░]+90%25;SQL+++++++++++++[█████████████████░░░]+85%25;Power+BI++++++++[███████████████████░]+95%25;Tableau+++++++++[██████████████░░░░░░]+70%25" alt="Skill Progress" />
-  <br><br>
-  
+  <p><i>Engineered for data extraction, statistical precision, and visual storytelling.</i></p>
+</div>
+
+<div align="center">
   <code><img height="35" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9D&border=00FF9D"></code>
   <code><img height="35" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF9D&border=00FF9D"></code>
   <code><img height="35" src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9D&border=00FF9D"></code>
@@ -130,7 +129,7 @@
       <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Ai Baba Ki Comedy & AI Art</h3>
+      <h3>🎬 Content Creation & AI Art</h3>
       <blockquote>YouTube creator blending technical humor & mini-vlogs. Expert in prompt engineering for hyper-realistic digital assets.</blockquote>
       <b>Focus:</b> <br>
       <kbd>Gen-AI</kbd> <kbd>Video Editing</kbd> <kbd>Branding</kbd><br><br>
@@ -145,25 +144,26 @@
 </div>
 <br>
 
-<!-- ===================== AUTOMATED YOUTUBE FEED ===================== -->
-<!-- Note for Manish: To make this work, setup the 'blog-post-workflow' GitHub Action in your repo to target your YouTube channel RSS feed. -->
+<!-- ===================== CERTIFICATIONS ===================== -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="35" /> Latest Videos</h2>
-  
-  <!-- YOUTUBE:START -->
-  <i>Automated YouTube video feed will appear here once the GitHub Action is configured.</i>
-  <!-- YOUTUBE:END -->
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /> Achievements & Certifications</h2>
 </div>
+
+> **🤖 Machine Learning (NPTEL)**  
+> Certified in core machine learning algorithms, data modeling, predictive analytics, and model evaluation techniques.
+
+> **📊 Advanced Excel (Skilllearn)**  
+> Certified in advanced data analysis, complex formulas, data manipulation, and building dynamic business reports.
+
+> **📈 Power BI Certification**  
+> Demonstrated proficiency in data visualization, data modeling, DAX queries, and data-driven storytelling.
 
 <br><br>
 
-<!-- ===================== CONNECT & GLOBE ===================== -->
+<!-- ===================== CONNECT ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect & Collaborate!</h2>
   
-  <img src="https://github-readme-globe.vercel.app/api?color=00FF9D&bg_color=0D1117" alt="3D GitHub Globe" height="200" />
-  
-  <br><br>
   <h3>💬 Open to Data Analytics & BI Internships</h3>
   <p><b>Always eager to discuss data projects, tech collaborations, or content creation.</b></p>
   
@@ -172,17 +172,6 @@
   <a href="mailto:manishkshyp0123@gmail.com"><img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&border=00FF9D" alt="Email" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D&border=00FF9D" alt="LinkedIn" /></a>
-</div>
-
-<br><br>
-
-<!-- ===================== CURRENTLY LISTENING (SPOTIFY) ===================== -->
-<!-- Note for Manish: Replace 'YOUR_SPOTIFY_USER_ID' below with your actual Spotify account ID to show what you are listening to live! -->
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphones" width="35" /> Vibe & Code</h2>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novathem&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff&bar_color=00FF9D">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novathem&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff&bar_color=00FF9D" alt="Spotify Currently Listening" />
-  </a>
 </div>
 
 <br><br>
