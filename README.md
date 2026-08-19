@@ -1,10 +1,9 @@
-I swapped out that local image file for a sleek, dark-themed animated banner that is instantly visible without needing to upload anything. I also added a clear link back to your GitHub profile at the very bottom.
-Here is the fully updated code ready to copy and paste:
 <!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=200&section=header&text=Manish%20Kashyap&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=00FF9D&desc=Aspiring%20Data%20Analyst&descAlignY=60&descSize=20" width="100%" alt="Header" />
+<!-- Instantly Visible Custom Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2533,100:00FF9D&height=220&section=header&text=Manish%20Kashyap&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Analytics%20%C2%B7%20Business%20Intelligence%20%C2%B7%20SQL%20%26%20Python&descAlignY=62&descSize=18&descColor=00FF9D" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -12,7 +11,7 @@ Here is the fully updated code ready to copy and paste:
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3E%3E+Aspiring+Data+Analyst_;%3E%3E+Transforming+Raw+Data+into+Business+Intel_;%3E%3E+SQL+%7C+Excel+%7C+Python+%7C+Power+BI_;%3E%3E+Open+to+Data+Analytics+Internships_" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Kashyap-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa)
 [![Email](https://img.shields.io/badge/Email-manishkshyp0123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:manishkshyp0123@gmail.com)
@@ -298,15 +297,17 @@ Here is the fully updated code ready to copy and paste:
 
 ### ⚡ Turning Data Into Decisions, One Dataset at a Time ⚡
 
+<br>
+
+<!-- Profile Link & Button -->
 <a href="https://github.com/Manish-kashyap">
-  <img src="https://img.shields.io/badge/Visit_My_GitHub_Profile-Manish--kashyap-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Visit_My_GitHub_Profile-Manish--kashyap-00FF9D?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="GitHub Profile Link" />
 </a>
 
 <br><br>
 
 <sub>© 2026 Manish Kashyap · Data Analyst</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2533,100:00FF9D&height=120&section=footer" width="100%" />
 
 </div>
-
